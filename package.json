@@ -1,0 +1,23 @@
+{
+  "name": "ex_docker_app",
+  "version": "1.0.0",
+  "description": "docker ntb dec",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilanWijerathne/exapp_doc.git"
+  },
+  "author": "Dilan Wijerathne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilanWijerathne/exapp_doc/issues"
+  },
+  "homepage": "https://github.com/dilanWijerathne/exapp_doc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
